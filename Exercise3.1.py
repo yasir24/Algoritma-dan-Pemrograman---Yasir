@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 3.1 NAMES
 # Simpan beberapa nama temanmu ke dalam sebuah list bernama names. 
 # Kemudian tampilkan nama setiap orang dengan mengakses setiap elemen 
