@@ -1,4 +1,4 @@
-# 4.6 OLD NUMBERS
+# 4.6 ODD NUMBERS
 # Gunakan argumen ketiga pada fungsi range() untuk membuat list bilangan ganjil dari 1 sampai 20.
 # Gunakan for loop untuk menampilkan setiap angka.
 

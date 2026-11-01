@@ -14,3 +14,14 @@ foods = ("Nasi goreng", "Ayam goreng", "Sate", "Bakso", "Soto")
 print("Menu makanan restoran:")
 for food in foods:
     print(food)
+
+# Mencoba mengubah salah satu elemen tuple
+foods[0] = "Mie goreng"
+
+# Mengganti menu restoran dengan tuple baru
+foods = ("Nasi goreng", "Mie goreng", "Sate", "Rendang", "Soto")
+
+# Menampilkan menu restoran yang baru
+print("\nMenu makanan terbaru:")
+for food in foods:
+    print(food)
