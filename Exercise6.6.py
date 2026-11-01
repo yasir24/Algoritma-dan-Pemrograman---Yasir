@@ -15,7 +15,7 @@ favorite_languages = {
 }
 
 # Membuat daftar orang yang perlu mengikuti polling
-people = ["yasir", "windah", "miook", "pria solo", "budi", "andi", "phil", "dina"]
+people = ["yasir", "windah", "miook", "pria solo", "budi", "andi", "ratna", "dina"]
 
 # Memeriksa siapa yang sudah mengikuti polling
 for person in people:
